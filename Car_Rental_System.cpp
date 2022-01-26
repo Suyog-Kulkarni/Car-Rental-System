@@ -876,7 +876,7 @@ int main()
         break;
 
     default:
-        cout<<"Please enter between 1 and 2."<<endl;
+        cout<<"Please enter between 1 and 2./n"<<endl;
         exit(0);
         break;
     }
